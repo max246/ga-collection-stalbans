@@ -1,0 +1,47 @@
+.collection {
+    display: flex;
+    width: 88%;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+
+button#home {
+    width:40px;
+    top:10px;
+    left:10px;
+    position: absolute;
+    border:0;
+    cursor:pointer;
+    background-color: transparent;
+    background-size: cover;
+    width:100px;
+    height:100px;
+}
+
+.collectionToday {
+    position: absolute;
+    top: 150px;
+    left: 0;
+    width: 100%;
+    text-decoration: underline;
+}
+
+@media (max-width: 767px) {
+    .collection {
+        margin-top: 60px;
+    }
+
+    button#home {
+        width: 50px;
+        height: 50px;
+    }
+
+    .collectionToday {
+
+        top: 90px;
+        text-align: right;
+        width:90%;
+    }
+}

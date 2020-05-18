@@ -1,0 +1,19 @@
+.collectionAddress {
+ overflow-y: scroll;
+    height: 100vh;
+}
+
+.collectionAddress div {
+width:100%;
+font-size:40px;
+border-bottom: 3px solid grey;
+margin-bottom:10px;
+}
+.collectionAddress a {
+display:block;
+width:100%;
+padding:10px;
+}
+.collectionAddress a:hover {
+background-color: #b5b5b5;
+}
