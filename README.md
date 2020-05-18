@@ -68,6 +68,11 @@ firebase deploy
 ###### Test it
 1) Open https://console.actions.google.com/ and go to test
 
+# Screenshots
+
+![alt text](https://github.com/max246/ga-collection-stalbans/blob/master/img/home.png?raw=true)
+![alt text](https://github.com/max246/ga-collection-stalbans/blob/master/img/search.png?raw=true)
+![alt text](https://github.com/max246/ga-collection-stalbans/blob/master/img/result.png?raw=true)
 
 
 
@@ -128,3 +133,5 @@ Another fix is to make sure Interactive Canvas is enable in https://console.acti
 ## TODO
 
 - Cache data and dont pull each time
+
+
